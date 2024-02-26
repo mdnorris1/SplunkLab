@@ -32,9 +32,10 @@ Using this ‘attacker IP’ that was uncovered, we can search for the IP addres
 
 Next, we can transform the data into simple visualizations using the commands. 
 
+<br/>
+<img src="assets/visualisation.png" height="80%" width="80%" alt="ifconfig command"/>
+<br />
+
 After comparing these, let's look at some data that might be presenting possible attack scenarios.
 
-<br/>
-<img src="https://github.com/mdnorris1/WiresharkLab/blob/main/assets/css/packets3.png" height="80%" width="80%" alt="ifconfig command"/>
-<br />
 
