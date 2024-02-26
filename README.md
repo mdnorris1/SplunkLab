@@ -2,23 +2,19 @@
 
 My first project here is focussing on Searching terms useful for Splunk.
 
-This will show us the various HTTP requests for the capture:
+First, query the data for key pieces of information using the techniques/commands - commands indicate certain actions that you want to perform on the results of a given search. This can include filtering, sorting, counting, renaming, or generating commands as well as others.
 
 <br/>
 <img src="https://github.com/mdnorris1/WiresharkLab/blob/main/assets/css/http%20requests.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
-Now, let's look at Statistics > Conversations:
-
-This will give us a breakdown of who was talking to whom:
+Next, we can transform the data into simple visualizations using the commands. 
 
 <br/>
 <img src="https://github.com/mdnorris1/WiresharkLab/blob/main/assets/css/conversations2.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
-Please select IPv4:
-
-Then click on the top of the packets column twice:
+After comparing these, let's look at some data that might be presenting possible attack scenarios.
 
 <br/>
 <img src="https://github.com/mdnorris1/WiresharkLab/blob/main/assets/css/packets3.png" height="80%" width="80%" alt="ifconfig command"/>
