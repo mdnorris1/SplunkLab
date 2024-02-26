@@ -12,11 +12,13 @@ We looked at the least common value by using the command RARE.
 <img src="https://github.com/mdnorris1/SplunkLab/blob/main/assets/1%20top.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
-Next, we can transform the data into simple visualizations using the commands. 
+We can perform a search using the stats command to count the number of events present by a particular field. Notice below how it auto-suggests possible commands when you start typing.
 
 <br/>
-<img src="https://github.com/mdnorris1/WiresharkLab/blob/main/assets/css/conversations2.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="assets/stats .png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
+
+Next, we can transform the data into simple visualizations using the commands. 
 
 After comparing these, let's look at some data that might be presenting possible attack scenarios.
 
