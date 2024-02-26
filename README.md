@@ -36,6 +36,5 @@ Next, we can transform the data into simple visualizations using the commands.
 <img src="assets/visualisation.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
-After comparing these, let's look at some data that might be presenting possible attack scenarios.
 
 
