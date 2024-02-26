@@ -9,7 +9,7 @@ So, for example, you can use the command TOP to show the most common of field va
 We looked at the least common value by using the command RARE.
 
 <br/>
-<img src="" height="80%" width="80%" alt="ifconfig command"/>
+<img src="https://github.com/mdnorris1/SplunkLab/blob/main/assets/1%20top.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 Next, we can transform the data into simple visualizations using the commands. 
