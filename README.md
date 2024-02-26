@@ -4,8 +4,12 @@ My first project here is focussing on Searching terms useful for Splunk.
 
 First, query the data for key pieces of information using the techniques/commands - commands indicate certain actions that you want to perform on the results of a given search. This can include filtering, sorting, counting, renaming, or generating commands as well as others.
 
+So, for example, you can use the command TOP to show the most common of field values, for example the destination port (see image below) in a dataset.
+
+We looked at the least common value by using the command RARE.
+
 <br/>
-<img src="https://github.com/mdnorris1/WiresharkLab/blob/main/assets/css/http%20requests.png" height="80%" width="80%" alt="ifconfig command"/>
+<img src="" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 Next, we can transform the data into simple visualizations using the commands. 
