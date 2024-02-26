@@ -20,7 +20,8 @@ We can perform a search using the stats command to count the number of events pr
 
 Next, we could carry out a search on a website domain name and then on the next line, use the 'top' command to determine the possible IP address of an attacker scanning this domain name for vulnerabilities.
 
-<br/> <assets/src ip.png" height="80%" width="80%" alt="ifconfig command"/>
+<br/> 
+<img src="assets/src ip.png" height="80%" width="80%" alt="ifconfig command"/>
 <br />
 
 Next, we can transform the data into simple visualizations using the commands. 
